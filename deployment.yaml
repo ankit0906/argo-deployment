@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: ankitdockerhub1/simple-python-app:ac350ce
+        image: ankitdockerhub1/simple-python-app:240efdf
         ports:
         - containerPort: 80
