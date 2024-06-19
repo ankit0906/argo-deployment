@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - ankitdockerhub1/simple-python-app:4d2482b
